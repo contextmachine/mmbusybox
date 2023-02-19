@@ -4,7 +4,7 @@ import pydantic
 import pydantic.generics as pg
 from pydantic_numpy import NDArray
 
-import mmcore.collection.generics.simple as gens
+import mmcore.collections.generics.simple as gens
 from ...baseitems import Item
 
 
